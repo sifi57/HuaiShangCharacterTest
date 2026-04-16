@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-editorial-bg: #F4F2EE;
+  --color-editorial-accent: #2C2C2C;
+  --color-editorial-text: #1A1A1A;
+  --color-editorial-muted: #666666;
+  --color-editorial-border: #D1CEC7;
+  --color-editorial-ink: #000000;
+  --color-editorial-sidebar: #EBE8E2;
+
+  --font-serif: "Georgia", "Noto Serif SC", "Songti SC", "STSong", serif;
+  --font-sans: "Helvetica Neue", Arial, "Inter", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
