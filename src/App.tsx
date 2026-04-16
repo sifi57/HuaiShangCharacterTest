@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { questions } from './data/questions';
 import { characters } from './data/characters';
-import { DimensionProfile, Option, Character } from './types';
+import { DimensionProfile, Option } from './types';
 import { ChevronRight, RefreshCcw } from 'lucide-react';
 
 type AppState = 'start' | 'quiz' | 'calculating' | 'result';
